@@ -1,1 +1,1 @@
-console("change.2");
+console("change.js");
